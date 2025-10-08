@@ -1,0 +1,7 @@
+ID,Date,Description,Tags,Time Spent
+1,2025-10-01,Worked on frontend UI for task logger app,"coding,ui",3.0
+2,2025-10-01,Prepared project report for mentor review,"documentation,report",2.0
+3,2025-10-02,Fixed bugs in database integration,"debugging,sqlite",4.0
+4,2025-10-02,Team meeting to discuss weekly progress,meeting,1.5
+5,2025-10-03,Implemented export to CSV feature,"coding,python",2.0
+6,2025-10-03,Researched Tkinter styling for better UI,"research,ui",1.0
